@@ -27,11 +27,14 @@
 
 - 📫 How to reach me: **mybintangg@gmail.com**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/bintang-mochamad-yussuf-a55345220/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naina-upadhyay-5879641a0" height="30" width="40" /></a>
-<a href="https://instagram.com/bintang_mochamad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__upadhyay_naina__/?hl=en" height="30" width="40" /></a>
+ <p align="left">
+    <h3 align="left">Connect with me:</h3>
+    <a href="https://www.linkedin.com/in/bintang-mochamad-yussuf-a55345220/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naina-upadhyay-5879641a0" height="30" width="40" /></a>
+    <a href="https://instagram.com/bintang_mochamad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__upadhyay_naina__/?hl=en" height="30" width="40" /></a>
+    <a href="https://instagram.com/bintang_mochamad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" alt="__upadhyay_naina__/?hl=en" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -45,5 +48,6 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
     </a>
     <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
-    
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code> 
+    </a>
+ </p>
