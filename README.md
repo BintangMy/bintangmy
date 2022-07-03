@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##About Me:
+## About Me:
 - 🔭 I’m currently working at Freelancer
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Web Developer
