@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there,I'm Bintang 👋
 
 ## About Me:
 - 🔭 I’m currently working at Freelancer
